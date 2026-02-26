@@ -40,7 +40,8 @@ Para ello, se usaron dos fuentes reales de datos:
 
 <img width="576" height="514" alt="image" src="https://github.com/user-attachments/assets/fcfa1fe1-7a50-4f9b-9927-fe0352f272ba" />
 
-## Resumen Ejecutivo
+## Conclusiones
+### Resumen Ejecutivo
 ### Contexto & objetivo:
 - El presente análisis evalúa la relación entre la movilidad urbana y la productividad económica en las principales ciudades de Latinoamérica durante 2024. El objetivo central fue determinar si un mayor PIB per cápita correlaciona directamente con mayores niveles de congestión (Jams Delay), permitiendo identificar cuellos de botella que afectan la competitividad regional y priorizar inversiones en infraestructura de transporte.
 
